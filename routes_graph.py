@@ -73,5 +73,9 @@ def main():
     # Create a html for the net
     net.show("routes_net.html", notebook=False)
 
+    # For github pages
+    net.show("index.html", notebook=False)
+
+
 if __name__ == "__main__":
     main()
