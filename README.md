@@ -2,7 +2,7 @@
 A simple python setup for creating network graph using the flight routes and visualising it.
 
 ## Network example
-Check the link: 
+Check the link: https://shaikbademiya.github.io/network-graph/
 
 ## Usage
 
